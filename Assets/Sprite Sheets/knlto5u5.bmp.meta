@@ -1,0 +1,2935 @@
+fileFormatVersion: 2
+guid: 41fdfbac404fc6e49b90d35ae811464f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: knlto5u5_0
+  - first:
+      213: 21300002
+    second: knlto5u5_1
+  - first:
+      213: 21300004
+    second: knlto5u5_2
+  - first:
+      213: 21300006
+    second: knlto5u5_3
+  - first:
+      213: 21300008
+    second: knlto5u5_4
+  - first:
+      213: 21300010
+    second: knlto5u5_5
+  - first:
+      213: 21300012
+    second: knlto5u5_6
+  - first:
+      213: 21300014
+    second: knlto5u5_7
+  - first:
+      213: 21300016
+    second: knlto5u5_8
+  - first:
+      213: 21300018
+    second: knlto5u5_9
+  - first:
+      213: 21300020
+    second: knlto5u5_10
+  - first:
+      213: 21300022
+    second: knlto5u5_11
+  - first:
+      213: 21300024
+    second: knlto5u5_12
+  - first:
+      213: 21300026
+    second: knlto5u5_13
+  - first:
+      213: 21300028
+    second: knlto5u5_14
+  - first:
+      213: 21300030
+    second: knlto5u5_15
+  - first:
+      213: 21300032
+    second: knlto5u5_16
+  - first:
+      213: 21300034
+    second: knlto5u5_17
+  - first:
+      213: 21300036
+    second: knlto5u5_18
+  - first:
+      213: 21300038
+    second: knlto5u5_19
+  - first:
+      213: 21300040
+    second: knlto5u5_20
+  - first:
+      213: 21300042
+    second: knlto5u5_21
+  - first:
+      213: 21300044
+    second: knlto5u5_22
+  - first:
+      213: 21300046
+    second: knlto5u5_23
+  - first:
+      213: 21300048
+    second: knlto5u5_24
+  - first:
+      213: 21300050
+    second: knlto5u5_25
+  - first:
+      213: 21300052
+    second: knlto5u5_26
+  - first:
+      213: 21300054
+    second: knlto5u5_27
+  - first:
+      213: 21300056
+    second: knlto5u5_28
+  - first:
+      213: 21300058
+    second: knlto5u5_29
+  - first:
+      213: 21300060
+    second: knlto5u5_30
+  - first:
+      213: 21300062
+    second: knlto5u5_31
+  - first:
+      213: 21300064
+    second: knlto5u5_32
+  - first:
+      213: 21300066
+    second: knlto5u5_33
+  - first:
+      213: 21300068
+    second: knlto5u5_34
+  - first:
+      213: 21300070
+    second: knlto5u5_35
+  - first:
+      213: 21300072
+    second: knlto5u5_36
+  - first:
+      213: 21300074
+    second: knlto5u5_37
+  - first:
+      213: 21300076
+    second: knlto5u5_38
+  - first:
+      213: 21300078
+    second: knlto5u5_39
+  - first:
+      213: 21300080
+    second: knlto5u5_40
+  - first:
+      213: 21300082
+    second: knlto5u5_41
+  - first:
+      213: 21300084
+    second: knlto5u5_42
+  - first:
+      213: 21300086
+    second: knlto5u5_43
+  - first:
+      213: 21300088
+    second: knlto5u5_44
+  - first:
+      213: 21300090
+    second: knlto5u5_45
+  - first:
+      213: 21300092
+    second: knlto5u5_46
+  - first:
+      213: 21300094
+    second: knlto5u5_47
+  - first:
+      213: 21300096
+    second: knlto5u5_48
+  - first:
+      213: 21300098
+    second: knlto5u5_49
+  - first:
+      213: 21300100
+    second: knlto5u5_50
+  - first:
+      213: 21300102
+    second: knlto5u5_51
+  - first:
+      213: 21300104
+    second: knlto5u5_52
+  - first:
+      213: 21300106
+    second: knlto5u5_53
+  - first:
+      213: 21300108
+    second: knlto5u5_54
+  - first:
+      213: 21300110
+    second: knlto5u5_55
+  - first:
+      213: 21300112
+    second: knlto5u5_56
+  - first:
+      213: 21300114
+    second: knlto5u5_57
+  - first:
+      213: 21300116
+    second: knlto5u5_58
+  - first:
+      213: 21300118
+    second: knlto5u5_59
+  - first:
+      213: 21300120
+    second: knlto5u5_60
+  - first:
+      213: 21300122
+    second: knlto5u5_61
+  - first:
+      213: 21300124
+    second: knlto5u5_62
+  - first:
+      213: 21300126
+    second: knlto5u5_63
+  - first:
+      213: 21300128
+    second: knlto5u5_64
+  - first:
+      213: 21300130
+    second: knlto5u5_65
+  - first:
+      213: 21300132
+    second: knlto5u5_66
+  - first:
+      213: 21300134
+    second: knlto5u5_67
+  - first:
+      213: 21300136
+    second: knlto5u5_68
+  - first:
+      213: 21300138
+    second: knlto5u5_69
+  - first:
+      213: 21300140
+    second: knlto5u5_70
+  - first:
+      213: 21300142
+    second: knlto5u5_71
+  - first:
+      213: 21300144
+    second: knlto5u5_72
+  - first:
+      213: 21300146
+    second: knlto5u5_73
+  - first:
+      213: 21300148
+    second: knlto5u5_74
+  - first:
+      213: 21300150
+    second: knlto5u5_75
+  - first:
+      213: 21300152
+    second: knlto5u5_76
+  - first:
+      213: 21300154
+    second: knlto5u5_77
+  - first:
+      213: 21300156
+    second: knlto5u5_78
+  - first:
+      213: 21300158
+    second: knlto5u5_79
+  - first:
+      213: 21300160
+    second: knlto5u5_80
+  - first:
+      213: 21300162
+    second: knlto5u5_81
+  - first:
+      213: 21300164
+    second: knlto5u5_82
+  - first:
+      213: 21300166
+    second: knlto5u5_83
+  - first:
+      213: 21300168
+    second: knlto5u5_84
+  - first:
+      213: 21300170
+    second: knlto5u5_85
+  - first:
+      213: 21300172
+    second: knlto5u5_86
+  - first:
+      213: 21300174
+    second: knlto5u5_87
+  - first:
+      213: 21300176
+    second: knlto5u5_88
+  - first:
+      213: 21300178
+    second: knlto5u5_89
+  - first:
+      213: 21300180
+    second: knlto5u5_90
+  - first:
+      213: 21300182
+    second: knlto5u5_91
+  - first:
+      213: 21300184
+    second: knlto5u5_92
+  - first:
+      213: 21300186
+    second: knlto5u5_93
+  - first:
+      213: 21300188
+    second: knlto5u5_94
+  - first:
+      213: 21300190
+    second: knlto5u5_95
+  - first:
+      213: 21300192
+    second: knlto5u5_96
+  - first:
+      213: 21300194
+    second: knlto5u5_97
+  - first:
+      213: 21300196
+    second: knlto5u5_98
+  - first:
+      213: 21300198
+    second: knlto5u5_99
+  - first:
+      213: 21300200
+    second: knlto5u5_100
+  - first:
+      213: 21300202
+    second: knlto5u5_101
+  - first:
+      213: 21300204
+    second: knlto5u5_102
+  - first:
+      213: 21300206
+    second: knlto5u5_103
+  - first:
+      213: 21300208
+    second: knlto5u5_104
+  - first:
+      213: 21300210
+    second: knlto5u5_105
+  - first:
+      213: 21300212
+    second: knlto5u5_106
+  - first:
+      213: 21300214
+    second: knlto5u5_107
+  - first:
+      213: 21300216
+    second: knlto5u5_108
+  - first:
+      213: 21300218
+    second: knlto5u5_109
+  - first:
+      213: 21300220
+    second: knlto5u5_110
+  - first:
+      213: 21300222
+    second: knlto5u5_111
+  - first:
+      213: 21300224
+    second: knlto5u5_112
+  - first:
+      213: 21300226
+    second: knlto5u5_113
+  - first:
+      213: 21300228
+    second: knlto5u5_114
+  - first:
+      213: 21300230
+    second: knlto5u5_115
+  - first:
+      213: 21300232
+    second: knlto5u5_116
+  - first:
+      213: 21300234
+    second: knlto5u5_117
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knlto5u5_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1418
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ae69fbec278224c80ef2d2961d5b7a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1440
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb680e5d77c282347b32e4eead77413b
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1383
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7605d0a02d9c94e859a5e7d1f62819
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1440
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f81cf2507f27941994646a4ab73d97
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1437
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d3bd95b4ade5e4182846c04e5e6343
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_5
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1437
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d937f301e52df9043b20910a2d8d1db5
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1437
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808c4a77229430c46a0c427bf1a5deca
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1437
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32742f37e563bb64786c7cf2ab446c13
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1418
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5085bd8da06c642a439ec52003d2a3
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_9
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 1128
+        width: 296
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab519e01441bb284a96cea818a5464cd
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_10
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 1088
+        width: 296
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3372cfd5820e7498a127145de92a0b
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_11
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 1064
+        width: 272
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eacdea8bd5af694089c436ac9181a80
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1434
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e822ce92f7969bf49952a2a1d13e4dbb
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1434
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f603943435524e948bc0a1b5f237a085
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1409
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adff7da02a957b24f809c61ff8d50204
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_15
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1424
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f108ff448dc724dbdbc1c87366e159
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_16
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1383
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99232716d0d09c41a9e62679fe2a161
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_17
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1424
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a857a3d588134343ad659a9948ba323
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1383
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c539130db3e5d9047b2f526f8f7a49e3
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1383
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a59b828e9eef349ab1c7949ace7eaf
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_20
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1383
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73783fae879524249bbd61f6480b1994
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_21
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a628f437bd55e6949bee43c88e7060a9
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_22
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1228
+        width: 832
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1e37f43a09f634c98396f197a4d4c2
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1409
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e8ccd5ab6351241a2fdde1ea6f406f
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1418
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89488e49989b5ef409ac27c17f0b41f0
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_25
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1418
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafb2cce9d8da8e40b5b202a8ee0c3cb
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_26
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1228
+        width: 32
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774b8596c05141b44aac18faac78d3d5
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_27
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1228
+        width: 32
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2838df5985803a04784e6e69e540b9ad
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1378
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a71ac7de6f8f84e919f83468732d50
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_29
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1408
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8057dc038ff647348ab502c412b38229
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_30
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1408
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42def6a751316fc41aeb7e7bd354cffd
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_31
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1383
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14c0de75f364ac4b8a5967ed6711108
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_32
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1368
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568cbfced1ca34b4ab9bd0c46e2e73e3
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_33
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1396
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c2949d6745d9645b57bb18836ab051
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_34
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1386
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be55f93e8c73f6e46a9d091c1ce1b724
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1386
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabeffd98d5674e4686ccecaa6726cdf
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_36
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1402
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4e3df3dcc84444d878ca659016b221
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_37
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1402
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c0f314babd5a440a1b96da3ea821aa
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_38
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73296419df18d8f4aa84a9785cedbfd4
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_39
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1378
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1f53fa597c3374aa596f91de6df89e
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_40
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1313
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f484c23967b593e478481453acebc3c8
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_41
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1313
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d2e0cbd2214cf4eade471b8124287a
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1238
+        width: 64
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4009e4bcc1295a542a4480a6fc2b53cf
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_43
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1360
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb5828b98ce218489e99afb527e30a5
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_44
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1147
+        width: 71
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffa0162169a376418eaae44a17b2525
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985ff2f350e8d6841a8ecfff2145a682
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912a57ad312bf0d46a0b326615ef17f9
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_47
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1344
+        width: 107
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffded1f20c30b4419819bf379e38e13
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_48
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1294
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32404087bfdd8043b4f266dc6792ec4
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_49
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1294
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5a0a1c6b4ed0840988dfc6d0bc9c08
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_50
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1294
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dee18bf52da3949bc2c044fd501e5e
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_51
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1324
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd21ed95acf6d0e44b942ccb14270142
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_52
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1311
+        width: 107
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc49ff0ebd7da6c41800bd3eb312ea2a
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_53
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1248
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac00282d727933145bbf1f0ec9ff0cd1
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_54
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f61a833e8f62842bd75e558a35d27c
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_55
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1248
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f18d72b4e5be1f449be4d6447ebc97f
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_56
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbb35a7fa7959e46943eca83cacfe85
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1275
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df59075ebf9a6145a7cbe3fec37d532
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_58
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1275
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be73f0114dfc1044c82e1a8082b91b33
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_59
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1299
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d84ed7c841ecd84f9229a41acfcbcb8
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_60
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1276
+        width: 107
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e61e0b7bc2b9304cbff9560627728a9
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7ce05ec15d98647951ccc4f6b08505
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_62
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47dc727ce1f52f4ca36c7ec1745f0ac
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_63
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1283
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c389324c9874614fba9a4619163553b
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_64
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1228
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e92271c2c1a39b44bb635c4806a2407
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_65
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1228
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17596b2c3e2be042afb120e764ea200
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_66
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1228
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a657884d55929904e8cceff3f6e42113
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_67
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f029221ac46884d9f0f098ad8932cd
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_68
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfebdecdbed11fd45845fcdda615fc31
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_69
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1245
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c473521248c8a4f9b17959745eef15
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_70
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1229
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567f827fa1828f54b97a5e214214613c
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_71
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1198
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ba8c9aaedbd194e9b28cf98b2618d8
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_72
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1238
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9c7c0093fba4c4e92e878104affd59
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_73
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1147
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d7091ce7a1c544f983cdf007d3b3d6
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_74
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1147
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4f8828226bb9e4da7a7bee73c1aa3a
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_75
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1147
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618a6e19c9e133347b669bf70e00c500
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_76
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1139
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f11eb04c162214ebb76a1e65a859d8
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_77
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1139
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc3f3edb8c45de4ca0506f6384a29c2
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 866
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4867f6993165849bc14d67b22d1cda
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_79
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 866
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ee6f7a871c16c4cafa3466a0628c78
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_80
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 866
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f4c5c15e13cc14aae5805be1b581bb
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_81
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 866
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1600467dbd31b204eacd0e245ad81813
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_82
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 866
+        width: 256
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08911d6cc8b0c844a9462474437a1f1c
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_83
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 866
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded5a68b2857f744bae3e8b675ca9b47
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_84
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 866
+        width: 256
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f11e64b43c123488f45efe2b9b3382
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_85
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 866
+        width: 256
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affe39399d784c04ba8f459638b27502
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_86
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 866
+        width: 256
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26820dcf741c27e4db132a6b2bd6ab64
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_87
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 467
+        width: 256
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7279a2856f40c645b313504750dafd9
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 608
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead4becf2b123c54bbde0bf645f4dd80
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_89
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 608
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ced0a75a3f13a844887e7204377d531
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_90
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 608
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b251363864e27764d8624dba2989b2c3
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_91
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 608
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f62731ea0668240a6d527bf04a02f5
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_92
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 608
+        width: 135
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fda4eb944af4de45a7a8a27da99c5cf
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_93
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 608
+        width: 135
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd9070010236f4ca4d91b07dca6840
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_94
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 608
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f7e4d7828012f4c917a1144c760346
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_95
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 722
+        width: 256
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9928c6fb03c764a8abbac16940290b
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_96
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 608
+        width: 64
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07b8ddac2c0781409ebff135a3b9139
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_97
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 608
+        width: 71
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0b3dc2b9a2a544e8624981b32a26bf
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_98
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 608
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1622cb066279f7a44882d6ad6711a8f9
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_99
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 290
+        width: 688
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952c08c0a702a8b40898d86192f8a1af
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_100
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 270
+        width: 544
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897301261df41ca44bed0c0629a8a2dc
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_101
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 350
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3b731fe566b86408256b239bf873da
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_102
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 350
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59bb6e3821bc0f4bb51a2aa681a0469
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_103
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 350
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100cc3dced144bd46946bcc8d8d75edd
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_104
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 350
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2674fd12aa5e642b7c810829795cc0
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_105
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 350
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d34d366faf3fc74fbf01532d0cb2b61
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_106
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 237
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268529dc14824d34fb2be22c96a0aa9b
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_107
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 261
+        width: 272
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce2d153d7880094aadf2b199d417443
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_108
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adfd861d42662840af68638cfcc4218
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_109
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 8
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44f8c00ab658514788138af6a9e450d
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_110
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 8
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed95479f47eedf241b9670ba0518bfec
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_111
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 8
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce1885107d3cba4e9ac719f8f34efac
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_112
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 11
+        width: 560
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb00a3d10e8983d478d12d75d0aec61d
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_113
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 237
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdc1ce1accbe1e4a9300086bc566c8c
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_114
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 11
+        width: 352
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbed0122666085942a273320fde9515f
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_115
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 196
+        width: 72
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2da47ed596e674cb14a374ba494e09
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_116
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 8
+        width: 256
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8873a35655572498d6e94f5b3f01de
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knlto5u5_117
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 11
+        width: 288
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8030e68a8a372748bb3da8a40b8882d
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e87fff94e5dd21e439931778aa81f92c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

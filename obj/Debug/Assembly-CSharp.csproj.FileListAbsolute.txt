@@ -1,0 +1,2 @@
+C:\Users\Issa Shaban\Desktop\File 277\Courses\Unity\Unity practice 2D\Practice and Learning\Sonic Game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Issa Shaban\Desktop\File 277\Courses\Unity\Unity practice 2D\Practice and Learning\Sonic Game\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
